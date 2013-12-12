@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1385011896 source:c:\users\paramonovfb\documents\lessons\c\first\first\main.c
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+	<math.h>
+
